@@ -1,7 +1,7 @@
 # Savings Calculator Project
 
 ## Description
-This Java project calculates the growth of savings over time with different initial deposits and interest rates. The program displays the amount accumulated over a period and represents the growth visually using stars.
+This Java project calculates the growth of savings over time with different initial deposits and interest rates. The program displays the amount accumulated over a period and represents the growth visually using stars. I did it in my CSC-15 class in 2019 at CSUS.
 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine.
